@@ -1,0 +1,106 @@
+{"index":{"_index":"pois","_type":"b-cycle","_id":1}}
+{"category":"b-cycle","name":"10th & Osage","address":{"city":"Denver"},"lng":-105.00535,"lat":39.73231,"geometry":{"type":"Point","coordinates":[-105.00534016998974,39.73230351285898]}}
+{"index":{"_index":"pois","_type":"b-cycle","_id":2}}
+{"category":"b-cycle","name":"11th & Broadway","address":{"city":"Denver"},"lng":-104.98753,"lat":39.73339,"geometry":{"type":"Point","coordinates":[-104.98752017406527,39.73338351157766]}}
+{"index":{"_index":"pois","_type":"b-cycle","_id":3}}
+{"category":"b-cycle","name":"11th & Emerson","address":{"city":"Denver"},"lng":-104.97629,"lat":39.73361,"geometry":{"type":"Point","coordinates":[-104.9762801766856,39.733603510834506]}}
+{"index":{"_index":"pois","_type":"b-cycle","_id":4}}
+{"category":"b-cycle","name":"12th & Sherman","address":{"city":"Denver"},"lng":-104.98469,"lat":39.7358,"geometry":{"type":"Point","coordinates":[-104.984680174477,39.73579351105824]}}
+{"index":{"_index":"pois","_type":"b-cycle","_id":5}}
+{"category":"b-cycle","name":"1350 Larimer","address":{"city":"Denver"},"lng":-105.00029,"lat":39.74684,"geometry":{"type":"Point","coordinates":[-105.00028016963402,39.746833510492685]}}
+{"index":{"_index":"pois","_type":"b-cycle","_id":6}}
+{"category":"b-cycle","name":"13th & Pearl","address":{"city":"Denver"},"lng":-104.98,"lat":39.73683,"geometry":{"type":"Point","coordinates":[-104.97999017547066,39.73682351061595]}}
+{"index":{"_index":"pois","_type":"b-cycle","_id":7}}
+{"category":"b-cycle","name":"1450 Wazee","address":{"city":"Denver"},"lng":-105.00165,"lat":39.74997,"geometry":{"type":"Point","coordinates":[-105.00164016898108,39.74996351013837]}}
+{"index":{"_index":"pois","_type":"b-cycle","_id":8}}
+{"category":"b-cycle","name":"14th & Champa","address":{"city":"Denver"},"lng":-104.99634,"lat":39.74456,"geometry":{"type":"Point","coordinates":[-104.99633017080552,39.74455351056315]}}
+{"index":{"_index":"pois","_type":"b-cycle","_id":9}}
+{"category":"b-cycle","name":"14th & Elati","address":{"city":"Denver"},"lng":-104.99395,"lat":39.73862,"geometry":{"type":"Point","coordinates":[-104.9939401719994,39.73861351124797]}}
+{"index":{"_index":"pois","_type":"b-cycle","_id":10}}
+{"category":"b-cycle","name":"14th & Welton","address":{"city":"Denver"},"lng":-104.99391,"lat":39.74267,"geometry":{"type":"Point","coordinates":[-104.99390017157803,39.742663510675186]}}
+{"index":{"_index":"pois","_type":"b-cycle","_id":11}}
+{"category":"b-cycle","name":"1550 Glenarm","address":{"city":"Denver"},"lng":-104.99107,"lat":39.74329,"geometry":{"type":"Point","coordinates":[-104.99106017217996,39.743283510407814]}}
+{"index":{"_index":"pois","_type":"b-cycle","_id":12}}
+{"category":"b-cycle","name":"15th & Cleveland","address":{"city":"Denver"},"lng":-104.98863,"lat":39.74064,"geometry":{"type":"Point","coordinates":[-104.98862017303571,39.74063351062632]}}
+{"index":{"_index":"pois","_type":"b-cycle","_id":13}}
+{"category":"b-cycle","name":"15th & Delgany","address":{"city":"Denver"},"lng":-105.00379,"lat":39.75244,"geometry":{"type":"Point","coordinates":[-105.0037801682149,39.75243350992654]}}
+{"index":{"_index":"pois","_type":"b-cycle","_id":14}}
+{"category":"b-cycle","name":"16th & Boulder","address":{"city":"Denver"},"lng":-105.01042,"lat":39.75934,"geometry":{"type":"Point","coordinates":[-105.01041016592106,39.75933350937633]}}
+{"index":{"_index":"pois","_type":"b-cycle","_id":15}}
+{"category":"b-cycle","name":"16th & Broadway","address":{"city":"Denver"},"lng":-104.98686,"lat":39.74184,"geometry":{"type":"Point","coordinates":[-104.98685017332437,39.74183351034513]}}
+{"index":{"_index":"pois","_type":"b-cycle","_id":16}}
+{"category":"b-cycle","name":"16th & Little Raven","address":{"city":"Denver"},"lng":-105.00488,"lat":39.75524,"geometry":{"type":"Point","coordinates":[-105.00487016766044,39.755233509601645]}}
+{"index":{"_index":"pois","_type":"b-cycle","_id":17}}
+{"category":"b-cycle","name":"16th & Platte","address":{"city":"Denver"},"lng":-105.00811,"lat":39.75746,"geometry":{"type":"Point","coordinates":[-105.0081001666645,39.75745350949422]}}
+{"index":{"_index":"pois","_type":"b-cycle","_id":18}}
+{"category":"b-cycle","name":"16th & Sherman","address":{"city":"Denver"},"lng":-104.98495,"lat":39.74191,"geometry":{"type":"Point","coordinates":[-104.98494017376616,39.74190351021419]}}
+{"index":{"_index":"pois","_type":"b-cycle","_id":19}}
+{"category":"b-cycle","name":"17th & Blake","address":{"city":"Denver"},"lng":-104.99814,"lat":39.75176,"geometry":{"type":"Point","coordinates":[-104.99813016961595,39.75175350966383]}}
+{"index":{"_index":"pois","_type":"b-cycle","_id":20}}
+{"category":"b-cycle","name":"17th & Curtis","address":{"city":"Denver"},"lng":-104.99339,"lat":39.74767,"geometry":{"type":"Point","coordinates":[-104.99338017116834,39.74766350993829]}}
+{"index":{"_index":"pois","_type":"b-cycle","_id":21}}
+{"category":"b-cycle","name":"17th & Larimer","address":{"city":"Denver"},"lng":-104.99604,"lat":39.74984,"geometry":{"type":"Point","coordinates":[-104.99603017031419,39.749833509800865]}}
+{"index":{"_index":"pois","_type":"b-cycle","_id":22}}
+{"category":"b-cycle","name":"18th & California","address":{"city":"Denver"},"lng":-104.99003,"lat":39.747,"geometry":{"type":"Point","coordinates":[-104.99002017202986,39.74699350981954]}}
+{"index":{"_index":"pois","_type":"b-cycle","_id":23}}
+{"category":"b-cycle","name":"19th & Market","address":{"city":"Denver"},"lng":-104.99485,"lat":39.75262,"geometry":{"type":"Point","coordinates":[-104.99484017029812,39.752613509334076]}}
+{"index":{"_index":"pois","_type":"b-cycle","_id":24}}
+{"category":"b-cycle","name":"19th & Pearl","address":{"city":"Denver"},"lng":-104.97954,"lat":39.7461,"geometry":{"type":"Point","coordinates":[-104.979530174593,39.7460935092812]}}
+{"index":{"_index":"pois","_type":"b-cycle","_id":25}}
+{"category":"b-cycle","name":"19th & Wynkoop","address":{"city":"Denver"},"lng":-104.99694,"lat":39.75489,"geometry":{"type":"Point","coordinates":[-104.99693016956488,39.754883509147184]}}
+{"index":{"_index":"pois","_type":"b-cycle","_id":26}}
+{"category":"b-cycle","name":"2045 Franklin","address":{"city":"Denver"},"lng":-104.96851,"lat":39.74729,"geometry":{"type":"Point","coordinates":[-104.96850017706129,39.747283508414355]}}
+{"index":{"_index":"pois","_type":"b-cycle","_id":27}}
+{"category":"b-cycle","name":"22nd & Market","address":{"city":"Denver"},"lng":-104.99078,"lat":39.75559,"geometry":{"type":"Point","coordinates":[-104.99077017093911,39.75558350865788]}}
+{"index":{"_index":"pois","_type":"b-cycle","_id":28}}
+{"category":"b-cycle","name":"22nd & Pennsylvania","address":{"city":"Denver"},"lng":-104.98107,"lat":39.74763,"geometry":{"type":"Point","coordinates":[-104.98106017407034,39.747623509162736]}}
+{"index":{"_index":"pois","_type":"b-cycle","_id":29}}
+{"category":"b-cycle","name":"250 Columbine","address":{"city":"Denver"},"lng":-104.95672,"lat":39.72026,"geometry":{"type":"Point","coordinates":[-104.95671018270751,39.72025351147678]}}
+{"index":{"_index":"pois","_type":"b-cycle","_id":30}}
+{"category":"b-cycle","name":"25th & Lawrence","address":{"city":"Denver"},"lng":-104.9855,"lat":39.757,"geometry":{"type":"Point","coordinates":[-104.98549017203092,39.75699350812452]}}
+{"index":{"_index":"pois","_type":"b-cycle","_id":31}}
+{"category":"b-cycle","name":"28th & Larimer","address":{"city":"Denver"},"lng":-104.98308,"lat":39.76042,"geometry":{"type":"Point","coordinates":[-104.98307017223595,39.7604135074896]}}
+{"index":{"_index":"pois","_type":"b-cycle","_id":32}}
+{"category":"b-cycle","name":"3rd & Milwaukee","address":{"city":"Denver"},"lng":-104.95253,"lat":39.72055,"geometry":{"type":"Point","coordinates":[-104.95252018366263,39.72054351117068]}}
+{"index":{"_index":"pois","_type":"b-cycle","_id":33}}
+{"category":"b-cycle","name":"4th & Walnut","address":{"city":"Denver"},"lng":-105.01235,"lat":39.74283,"geometry":{"type":"Point","coordinates":[-105.01234016722512,39.742823511821854]}}
+{"index":{"_index":"pois","_type":"b-cycle","_id":34}}
+{"category":"b-cycle","name":"7th & Grant","address":{"city":"Denver"},"lng":-104.98373,"lat":39.72778,"geometry":{"type":"Point","coordinates":[-104.98372017555512,39.7277735121272]}}
+{"index":{"_index":"pois","_type":"b-cycle","_id":35}}
+{"category":"b-cycle","name":"9th & Downing","address":{"city":"Denver"},"lng":-104.97279,"lat":39.73078,"geometry":{"type":"Point","coordinates":[-104.97278017780965,39.730773511011535]}}
+{"index":{"_index":"pois","_type":"b-cycle","_id":36}}
+{"category":"b-cycle","name":"9th & Santa Fe","address":{"city":"Denver"},"lng":-104.9991,"lat":39.73058,"geometry":{"type":"Point","coordinates":[-104.99909017164313,39.73057351270654]}}
+{"index":{"_index":"pois","_type":"b-cycle","_id":37}}
+{"category":"b-cycle","name":"Broadway & Walnut","address":{"city":"Denver"},"lng":-104.98736,"lat":39.75822,"geometry":{"type":"Point","coordinates":[-104.98735017146349,39.75821350807077]}}
+{"index":{"_index":"pois","_type":"b-cycle","_id":38}}
+{"category":"b-cycle","name":"Buchtel and High","address":{"city":"Denver"},"lng":-104.96503,"lat":39.68504,"geometry":{"type":"Point","coordinates":[-104.96502018448608,39.68503351697044]}}
+{"index":{"_index":"pois","_type":"b-cycle","_id":39}}
+{"category":"b-cycle","name":"Cherry Creek Mall","address":{"city":"Denver"},"lng":-104.95218,"lat":39.71504,"geometry":{"type":"Point","coordinates":[-104.95217018432969,39.715033511925576]}}
+{"index":{"_index":"pois","_type":"b-cycle","_id":40}}
+{"category":"b-cycle","name":"Denver Botanic Gardens","address":{"city":"Denver"},"lng":-104.95989,"lat":39.73258,"geometry":{"type":"Point","coordinates":[-104.95988018065333,39.73257350994077]}}
+{"index":{"_index":"pois","_type":"b-cycle","_id":41}}
+{"category":"b-cycle","name":"Denver Health","address":{"city":"Denver"},"lng":-104.99085,"lat":39.72767,"geometry":{"type":"Point","coordinates":[-104.99084017389235,39.727663512593715]}}
+{"index":{"_index":"pois","_type":"b-cycle","_id":42}}
+{"category":"b-cycle","name":"Denver Public Library","address":{"city":"Denver"},"lng":-104.9887,"lat":39.73713,"geometry":{"type":"Point","coordinates":[-104.98869017339248,39.73712351112505]}}
+{"index":{"_index":"pois","_type":"b-cycle","_id":43}}
+{"category":"b-cycle","name":"DU Driscoll Center","address":{"city":"Denver"},"lng":-104.96299,"lat":39.67918,"geometry":{"type":"Point","coordinates":[-104.96298018558609,39.67917351766858]}}
+{"index":{"_index":"pois","_type":"b-cycle","_id":44}}
+{"category":"b-cycle","name":"Ellsworth & Madison","address":{"city":"Denver"},"lng":-104.94633,"lat":39.71591,"geometry":{"type":"Point","coordinates":[-104.94632018561396,39.71590351143268]}}
+{"index":{"_index":"pois","_type":"b-cycle","_id":45}}
+{"category":"b-cycle","name":"Five Points","address":{"city":"Denver"},"lng":-104.97805,"lat":39.75459,"geometry":{"type":"Point","coordinates":[-104.97804017404,39.75458350799125]}}
+{"index":{"_index":"pois","_type":"b-cycle","_id":46}}
+{"category":"b-cycle","name":"Florida & S. Pearl","address":{"city":"Denver"},"lng":-104.97995,"lat":39.68933,"geometry":{"type":"Point","coordinates":[-104.97994018052286,39.68932351730828]}}
+{"index":{"_index":"pois","_type":"b-cycle","_id":47}}
+{"category":"b-cycle","name":"Louisiana & Franklin","address":{"city":"Denver"},"lng":-104.96857,"lat":39.69284,"geometry":{"type":"Point","coordinates":[-104.96856018282743,39.69283351609365]}}
+{"index":{"_index":"pois","_type":"b-cycle","_id":48}}
+{"category":"b-cycle","name":"Louisiana / Pearl Light Rail","address":{"city":"Denver"},"lng":-104.97911,"lat":39.69341,"geometry":{"type":"Point","coordinates":[-104.97910018028819,39.69340351667969]}}
+{"index":{"_index":"pois","_type":"b-cycle","_id":49}}
+{"category":"b-cycle","name":"Market Street Station","address":{"city":"Denver"},"lng":-104.99824,"lat":39.75011,"geometry":{"type":"Point","coordinates":[-104.99823016976804,39.75010350990239]}}
+{"index":{"_index":"pois","_type":"b-cycle","_id":50}}
+{"category":"b-cycle","name":"Park Ave West & Tremont","address":{"city":"Denver"},"lng":-104.98073,"lat":39.74956,"geometry":{"type":"Point","coordinates":[-104.98072017394492,39.74955350886943]}}
+{"index":{"_index":"pois","_type":"b-cycle","_id":51}}
+{"category":"b-cycle","name":"Pepsi Center","address":{"city":"Denver"},"lng":-105.00843,"lat":39.74769,"geometry":{"type":"Point","coordinates":[-105.00842016762955,39.74768351088928]}}
+{"index":{"_index":"pois","_type":"b-cycle","_id":52}}
+{"category":"b-cycle","name":"REI","address":{"city":"Denver"},"lng":-105.00865,"lat":39.75518,"geometry":{"type":"Point","coordinates":[-105.00864016678035,39.7551735098493]}}
+{"index":{"_index":"pois","_type":"b-cycle","_id":53}}
+{"category":"b-cycle","name":"Webb Building","address":{"city":"Denver"},"lng":-104.99019,"lat":39.74044,"geometry":{"type":"Point","coordinates":[-104.99018017269007,39.740433510753334]}}
