@@ -11,8 +11,10 @@ function toDoc(feature) {
     address: {
       city: feature.properties.CITY_LOC
     },
-    lng: feature.properties.LONG,
-    lat: feature.properties.LAT,
+    point: {
+      lon: feature.geometry.coordinates[0],
+      lat: feature.geometry.coordinates[1]
+    },
     geometry: feature.geometry
   };
 }
