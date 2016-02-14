@@ -1,11 +1,17 @@
 'use strict';
 
+const slug = require('slug');
 const gjson = require('../light-rail-stations.geojson.json');
 
 let id = 1;
 
+function createSlug(name) {
+  return slug(`light-rail-${name}`, { lower: true });
+}
+
 function toDoc(feature) {
   return {
+    slug: createSlug(feature.properties.NAME),
     category: 'light-rail',
     name: feature.properties.NAME,
     address: {

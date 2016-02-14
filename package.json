@@ -1,0 +1,7 @@
+{
+  "name": "my-denver-data",
+  "private": true,
+  "dependencies": {
+    "slug": "^0.9.1"
+  }
+}
