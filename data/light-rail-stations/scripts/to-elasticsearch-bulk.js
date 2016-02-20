@@ -13,6 +13,7 @@ function toDoc(feature) {
   return {
     slug: createSlug(feature.properties.NAME),
     category: 'light-rail',
+    icon: 'train',
     name: feature.properties.NAME,
     address: {
       street: feature.properties.ADDRESS

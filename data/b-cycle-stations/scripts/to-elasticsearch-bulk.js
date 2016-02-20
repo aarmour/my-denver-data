@@ -13,6 +13,7 @@ function toDoc(feature) {
   return {
     slug: createSlug(feature.properties.STATION),
     category: 'b-cycle',
+    icon: 'bicycle',
     name: feature.properties.STATION,
     address: {
       city: feature.properties.CITY_LOC
